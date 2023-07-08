@@ -1,0 +1,7 @@
+{
+"text.autoconfig.nomorecreepersgrief.title": "No More Creepers Grief",
+  "text.autoconfig.nomorecreepersgrief.option.creepersOptions.creeperExplosionModes": "Creeper Explosion Mode",
+  "text.autoconfig.nomorecreepersgrief.option.creepersOptions.creeperExplosionModes.@Tooltip[0]": "TNT: act as a tnt so the creeper will destroy the blocks like usual but drop all of them on the ground",
+  "text.autoconfig.nomorecreepersgrief.option.creepersOptions.creeperExplosionModes.@Tooltip[1]": "MOB: Default creepers explosion, destroys blocks around you but doesn't drop most of them.",
+  "text.autoconfig.nomorecreepersgrief.option.creepersOptions.creeperExplosionModes.@Tooltip[2]": "NONE: The creeper explosion won't make any damage to the world around you, only to entities."
+}
